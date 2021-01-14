@@ -1,0 +1,85 @@
+#first-h1{
+    color: #363958;
+    font-size: 80px;
+    font-weight: lighter;
+    width: 348px;
+    height: 160px;
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    color: #363958;
+    font-size: 40px;
+    font-weight: lighter;
+    font-family: 'Bebas Neue', cursive;
+   
+}
+.color{
+    color:#76c27e;
+}
+
+
+.section-button{
+    color:white;
+    width: 170px;
+    height: 60px; 
+    border-radius:10px !important;
+    margin-left: 80px; 
+}
+#first-button{
+    width: 170px;
+    height: 60px; 
+    border-radius:10px !important;
+}
+
+.div-2{
+    max-width:100%;
+ 
+}  
+
+.div-2 img{
+    display: block;
+    margin:auto;
+    
+} 
+
+.bag-card {
+    border: 0;
+}
+.last-footer{
+    border:0;
+    background-color: white;
+    text-align: center;
+    
+}
+.last-footer h5{
+    display: inline-block;
+}
+.backpack img{
+    
+   width:50px!important ;
+   height: 50px !important;
+}
+h5{
+   text-align: center;
+    color: #363958; 
+ }  
+    
+
+
+.row-div{
+    max-width:100%;
+}
+
+.image-div{
+    padding-left:60px
+}
+.card-image{
+    position:relative;
+    border-radius:10px;
+    height:300px;
+    width:310px;
+    margin:auto;
+    margin-top:20px;
+    background-color:#f1f1f1;
+}  
+   
